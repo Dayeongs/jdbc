@@ -70,7 +70,6 @@ public class BookDao {
 		
 	}
 	
-	
 	// 책정보를 삭제하는 기능
 	// 반환타입: void
 	// 메소드이름: deleteBookByNo
